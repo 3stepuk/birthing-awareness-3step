@@ -5,3 +5,20 @@ plugins:
   - jekyll-remote-theme
 include:
   - assets/css/style.css
+title: "Birthing Awareness 3-Step Process"
+description: "Living Handbook — Open Edition"
+theme: jekyll-theme-slate
+
+# Navigation links
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Resources"
+    url: /resources
+  - title: "Contact"
+    url: /contact
+
+include:
+  - assets/css/style.css
